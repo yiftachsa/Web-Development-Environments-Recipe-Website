@@ -27,7 +27,7 @@ export default {
   },
   methods: {
     async addRecipe() {
-      if ($cookies.get("session")) {
+      if ($cookies.get("session") && (this.recipeType == "regular")) {
         try {
           const response = await this.axios.put(
             `${this.$root.store.baseUrl}/user/mealPlan/addRecipe/recipeID/${this.recipeId}`
