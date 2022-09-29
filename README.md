@@ -1,10 +1,9 @@
-# Web Development Environments Final Project
+# Web-Development-Environments-Recipe-Website
+This repository includes the final project submitted as part of the Web Development Environments course at the Ben-Gurion University of the Negev. 
 
 <p align="center">
 <img src="Media/61be16afc2df9.jpg"  width="700" height="220">
 </p>
-
-This repository includes the final project submitted as part of the Web Development Environments course at the Ben-Gurion University of the Negev. 
 
 The course deals with environments, developing tools and technologies for Web design and Programming. Topics that were covered include: Survey of **advanced search tools in the Web**; **Principles of Scripting languages**, **Java Script** and **Visual Studio Code**; tools and methods for designing Internet sites (e.g. Nielsen's approach); methods for Internet sites evaluation; **HTML advanced Editor**; **Cascading Style Sheets (CSS)**; SGML standard and XML language; Management of HTTP servers; Documents Object Model (DOM); Implementation of java Applets in HTML & Dynamic HTML; Server side programming and Client side programming; connection with legacy systems.
 
