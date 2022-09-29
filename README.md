@@ -1,7 +1,7 @@
 # Web Development Environments Final Project
 
 <p align="center">
-<img src="https://miro.medium.com/max/1018/1*I5O6NX_DIKYI1VBuLfX77Q.jpeg"  width="500" height="300">
+<img src="Media/61be16afc2df9.jpg"  width="700" height="220">
 </p>
 
 This repository includes the final project submitted as part of the Web Development Environments course at the Ben-Gurion University of the Negev. 
@@ -12,12 +12,12 @@ The course deals with environments, developing tools and technologies for Web de
 ## Recipe Website
 
 <p float="left">
-  <img src="Media/ass4_6.png" width=32% />
-  <img src="Media/ass4_11.png" width=26% />
-  <img src="Media/ass3_2.png" width=41% />
+  <img src="Media/ass3_3.jpeg" width=35% />
+  <img src="Media/ass3_6.jfif" width=35% />
+  <img src="Media/ass3_2.png" width=28% />
 </p>
 
-Merav Shaked | Yiftach Savransky [additional repo](https://github.com/SISE-Web-Development-Environments/assignment-3-2-v2-yiftach-merav)
+Merav Shaked | Yiftach Savransky | [additional repo](https://github.com/SISE-Web-Development-Environments/assignment-3-2-v2-yiftach-merav)
 
 The project goal is to implement a culinary recipe website. The project mimics a Full Stack development scenario in which, we, the developers, receive an initial Product Requirements Document (PRD) and are asked to implement it. 
 The project was built in three phases:
