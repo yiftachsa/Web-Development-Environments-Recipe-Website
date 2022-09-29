@@ -12,9 +12,8 @@ The course deals with environments, developing tools and technologies for Web de
 ## Recipe Website
 
 <p float="left">
-  <img src="Media/ass3_3.jpeg" width=35% />
-  <img src="Media/ass3_6.jfif" width=35% />
-  <img src="Media/ass3_2.png" width=28% />
+  <img src="Media/ass3_3.jpeg" width=55% />
+  <img src="Media/ass3_2.png" width=40% />
 </p>
 
 Merav Shaked | Yiftach Savransky | [additional repo](https://github.com/SISE-Web-Development-Environments/assignment-3-2-v2-yiftach-merav)
@@ -35,6 +34,11 @@ We implemented the server side using NODE.JS and EXPRESS.JS, according to the AP
 
 the frontend was developed using Vue.JS, and Vue CLI tooling. Additionally, we used the Bootstrap design library. A secondary goal of the design was to develop separate pages and components.
 
+
+<p float="left">
+  <img src="Media/ass3_8.png" width=45% />
+  <img src="Media/ass3_6.jfif" width=50% />
+</p>
 
 
 <p align="center">
