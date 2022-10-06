@@ -40,7 +40,6 @@ the frontend was developed using Vue.JS, and Vue CLI tooling. Additionally, we u
   <img src="Media/ass3_6.jfif" width=50% />
 </p>
 
-
 <p align="center">
 <img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
 </p>
