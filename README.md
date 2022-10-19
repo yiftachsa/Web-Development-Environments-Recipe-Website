@@ -25,12 +25,12 @@ The project was built in three phases:
 
 The goal of the API file is to create a “contract” between the client and the server. It establishes an agreement on the resources and actions of the server and how to get/request them. We used swagger with OpenAPI Specification – Version V3 format.
  
-### [Second Phase – Backend Development]()
+### [Second Phase – Backend Development](https://github.com/yiftachsa/Web-Development-Environments-Recipe-Website/tree/master/Backend)
 
 We implemented the server side using NODE.JS and EXPRESS.JS, according to the API written in the first phase. The recipe data is acquired through the API of [spoonacular](https://spoonacular.com/food-api). All the data of the clients is stored using AZURE DB. The system was engineered to handle and administer routes, cookies, users, and passwords.
  
 
-### [Third Phase – Frontend development]()
+### [Third Phase – Frontend development](https://github.com/yiftachsa/Web-Development-Environments-Recipe-Website/tree/master/Frontend)
 
 the frontend was developed using Vue.JS, and Vue CLI tooling. Additionally, we used the Bootstrap design library. A secondary goal of the design was to develop separate pages and components.
 
